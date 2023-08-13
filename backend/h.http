@@ -1,0 +1,13 @@
+GET http://localhost:5000/api/courses/4d28c85f92201818a246096
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NGQ3NjU1NDI0YWM0YjU5ZmUyOTIwZDEiLCJyb2xlIjoic3R1ZGVudCIsImlhdCI6MTY5MTgzNzg4OSwiZXhwIjoxNjkxODQxNDg5fQ.CY93XqC51vzJhX8Vbto7CilTDkDQN7t9Ti9kHSi1h5E"
+
+
+
+
+
+
+
+
+
+

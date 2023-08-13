@@ -1,0 +1,16 @@
+frontend/
+  ├── public/
+  │   ├── index.html          # Main HTML file
+  │   └── ...
+  ├── src/
+  │   ├── assets/             # Static assets like images, fonts, etc.
+  │   ├── components/         # Reusable UI components
+  │   ├── pages/              # Top-level page components
+  │   ├── services/           # API service functions
+  │   ├── utils/              # Utility functions
+  │   ├── App.js              # Main application component
+  │   ├── index.js            # Entry point of the React app
+  │   └── ...
+  ├── .gitignore              # Git ignore file
+  ├── package.json            # Package configuration and dependencies
+  └── README.md               # Frontend documentation

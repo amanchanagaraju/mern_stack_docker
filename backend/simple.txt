@@ -1,0 +1,17 @@
+backend/
+  ├── controllers/
+  │   ├── courseController.js     # Controller for course-related logic
+  │   └── userController.js      # Controller for user-related logic
+  ├── models/
+  │   ├── Course.js              # Course model schema
+  │   └── User.js                # User model schema
+  ├── routes/
+  │   ├── courseRoutes.js        # Routes for handling course-related requests
+  │   └── userRoutes.js          # Routes for handling user-related requests
+  ├── services/
+  │   └── authService.js         # Service for authentication and authorization
+  ├── middleware/
+  │   ├── authUser.js            # Middleware for authenticating requests
+  │   └── authRole.js            # Middleware for handling role-based authorization
+  ├── app.js                    # Main application file
+  └── config.js                 # Configuration file (e.g., database connection, environment variables)
